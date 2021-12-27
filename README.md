@@ -6,5 +6,5 @@ Bash script showing you ASCII version of polish pope
 ~ papie.sh - Coloured John Paul II photo with music!
 
 ## RUN:
-in file fdirectory:
+in file directory:
 ./papie.sh 
